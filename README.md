@@ -15,23 +15,25 @@ My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from B
 ### 📬 Get in Touch
 
 
-- GitHub: [github.com/esedArk][github]
-- LinkedIn: [linkedin.com/in/davidrodriguez23/][davidrodriguez23]
-- Site: [federico-dondi.github.io][site]
-- E-mail: esedark@gmail.com
+- GitHub: [1.2][github.com/esedArk][github]
+- twitter: [twitter.com/esedark][twitter]
+- LinkedIn: [davidrodriguez23][linkedin]
+- Site: [esedark.com][site]
+- Issue: [esedArk/issues/me][issue] 
 
 
-[twitter][0] | [LinkedIn][1] | or just ✉️ [Email](mailto:esedark@gmail.com) | 💬 [Issue](https://github.com/esedArk/esedArk/issues/me) Me about everything!
-<!-- Icons -->
+
 
 [1.2]: https://raw.githubusercontent.com/esedArk/esedArk/master/twitter.png (twitter esedArk)
 [2.2]: https://raw.githubusercontent.com/esedArk/esedArk/master/linkedin.png (LinkedIn David Rodriguez)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/esedark
-[2]: https://www.linkedin.com/in/davidrodriguez23/
-
+[twitter]: https://twitter.com/esedark
+[github]: https://github.com/esedark
+[linkedin]: https://www.linkedin.com/in/davidrodriguez23/
+[site]: https://www.esedark.com
+[issue]: https://github.com/esedArk/esedArk/issues/me
 
 
 
