@@ -22,7 +22,7 @@ My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from B
 - SEO
 - SaaS
 - MVP
-- Strategy
+- Business Strategy
 
 
 
