@@ -15,7 +15,7 @@ My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from B
 ### 📬 Get in Touch
 
 
-- GitHub: [1.2][github.com/esedArk][github]
+- GitHub: [1.2] [github.com/esedArk][github]
 - twitter: [twitter.com/esedark][twitter]
 - LinkedIn: [davidrodriguez23][linkedin]
 - Site: [esedark.com][site]
