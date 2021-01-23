@@ -12,31 +12,24 @@
 
 My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [SEAT](https://www.seat.es)
 
+- 🌱 I'm currently learning **Docker** and **Kubernetes**
+- ⚙️ Mastering: `.php`,`.css`,`.js`,`.html`
+- 👯 I'm looking to collaborate on **Laravel Sites** and/or **Startups** projects
+- 💬 I'm mostly active within the **Laravel**, **PHP** and **SEO** communities
+
+
 ### 📬 Get in Touch
-
-
-- GitHub: [1.2] [github.com/esedArk][github]
+- GitHub: [github.com/esedArk][github]
 - twitter: [twitter.com/esedark][twitter]
 - LinkedIn: [davidrodriguez23][linkedin]
-- Site: [esedark.com][site]
+- Website: [esedark.com][site]
 - Issue: [esedArk/issues/me][issue] 
 
 
 
-
-[1.2]: https://raw.githubusercontent.com/esedArk/esedArk/master/twitter.png (twitter esedArk)
-[2.2]: https://raw.githubusercontent.com/esedArk/esedArk/master/linkedin.png (LinkedIn David Rodriguez)
-
 <!-- Links to your social media accounts -->
-
 [twitter]: https://twitter.com/esedark
 [github]: https://github.com/esedark
 [linkedin]: https://www.linkedin.com/in/davidrodriguez23/
 [site]: https://www.esedark.com
 [issue]: https://github.com/esedArk/esedArk/issues/me
-
-
-
-
-[0]: https://twitter.com/esedark
-[1]: https://www.linkedin.com/in/davidrodriguez23/
