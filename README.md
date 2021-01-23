@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Middle-yellow)
 ![CSS](https://img.shields.io/badge/CSS-Senior-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![status](https://img.shields.io/badge/status-open-to-work-brightgreen)
+![status](https://img.shields.io/badge/status-open_to_work-brightgreen)
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/esedArk)
 
 
