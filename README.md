@@ -17,6 +17,14 @@ My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from B
 - 👯 I'm looking to collaborate on **Laravel Sites** and/or **Startups** projects
 - 💬 I'm mostly active within the **Laravel**, **PHP** and **SEO** communities
 
+## ⚡ Domains:
+- Web Development (Backend Developer)
+- SEO
+- SaaS
+- MVP
+- Strategy
+
+
 
 ### 📬 Get in Touch
 - GitHub: [github.com/esedArk][github]
