@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-###Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+###Hello <img src="https://raw.githubusercontent.com/esedArk/esedArk/main/wave.gif" width="30px">
 
 My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [SEAT](https://www.seat.es)
 
