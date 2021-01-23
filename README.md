@@ -4,8 +4,10 @@
 
 My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [SEAT](https://www.seat.es)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+## 📫 Contact Me on Social Media
+
+[twitter][0] | [LinkedIn][1] | [SegmentFault][2] | [V2EX][3] or just ✉️ [Email](mailto:esedark@gmail.com) | 💬 [Issue](https://github.com/esedArk/esedArk/issues/me) Me about everything!
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/esedArk/esedArk/master/twitter.png (twitter esedArk)
@@ -17,17 +19,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/davidrodriguez23/
 
 
-<!--
-**esedArk/esedark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[0]: https://twitter.com/esedark
+[1]: https://www.linkedin.com/in/davidrodriguez23/
