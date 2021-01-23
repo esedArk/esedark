@@ -2,7 +2,7 @@
 
 My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [SEAT](https://www.seat.es)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
