@@ -6,15 +6,20 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Middle-yellow)
 ![CSS](https://img.shields.io/badge/CSS-Senior-blue)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![status](https://img.shields.io/badge/status-open-to-work-brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/esedArk)
 
-
-
-
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://img.shields.io/badge/Relationship-Single-red)  ![](https://visitor-badge.glitch.me/badge?page_id=github.com/esedArk)
 
 My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [SEAT](https://www.seat.es)
 
-## 📫 Contact Me
+### 📬 Get in Touch
+
+
+- GitHub: [github.com/esedArk][github]
+- LinkedIn: [linkedin.com/in/davidrodriguez23/][davidrodriguez23]
+- Site: [federico-dondi.github.io][site]
+- E-mail: esedark@gmail.com
+
 
 [twitter][0] | [LinkedIn][1] | or just ✉️ [Email](mailto:esedark@gmail.com) | 💬 [Issue](https://github.com/esedArk/esedArk/issues/me) Me about everything!
 <!-- Icons -->
