@@ -10,7 +10,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/esedArk)
 
 
-My name is David Rodriguez and I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [SEAT](https://www.seat.es)
+I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [SEAT](https://www.seat.es)
 
 - 🌱 I'm currently learning **Docker** and **Kubernetes**
 - ⚙️ Mastering: `.php`,`.css`,`.js`,`.html`
