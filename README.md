@@ -57,7 +57,7 @@ I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working
 
 
 
-### 📬 Get in Touch
+## 📬 Get in Touch
 - GitHub: [github.com/esedArk][github]
 - twitter: [twitter.com/esedark][twitter]
 - LinkedIn: [davidrodriguez23][linkedin]
