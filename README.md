@@ -25,8 +25,6 @@ I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npm/npmjs-ar21.svg"></code>
-
-
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
@@ -43,9 +41,6 @@ I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-
-
-
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
