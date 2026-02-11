@@ -11,9 +11,9 @@
 
 ## About me 
 
-I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [stalkeator](https://stalkeator.com/)
+I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [goCrush](https://gocrush.club/)
 
-- 🌱 I'm currently learning **Puppeteer**
+- 🌱 I'm currently learning **Puppeteer/AI**
 - ⚙️ Mastering: `.php`,`.css`,`.js`,`.html`
 - 👯 I'm looking to collaborate on **Laravel Sites** and/or **Startups** projects
 - 💬 I'm mostly active within the **Laravel**, **PHP** and **SEO** communities
