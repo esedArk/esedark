@@ -37,6 +37,14 @@ It brings together the work I enjoy: understanding an operational problem, build
 
 [Visit goCrush →](https://gocrush.club/)
 
+### Featured project · [Woolando](https://woolando.es/)
+
+**Smart kiosks, ticketing and custom software.**
+
+Self-service solutions connecting ticket sales, payments, ticket printing and QR access control with management tools and integrations for events, venues and businesses.
+
+[Visit Woolando →](https://woolando.es/)
+
 ### Technologies I work with
 
 | Area | Tools |
@@ -77,6 +85,14 @@ Como CTO & Product Engineer, trabajo en decisiones de producto, arquitectura de 
 Reúne lo que más me interesa: entender un problema operativo, construir el producto que lo resuelve y mantener las decisiones técnicas conectadas con el negocio.
 
 [Visitar goCrush →](https://gocrush.club/)
+
+### Proyecto destacado · [Woolando](https://woolando.es/)
+
+**Kioscos inteligentes, ticketing y software a medida.**
+
+Soluciones de autoservicio que conectan venta de entradas, cobros, impresión de tickets y control de accesos QR con paneles de gestión e integraciones para eventos, recintos y negocios.
+
+[Visitar Woolando →](https://woolando.es/)
 
 ### Tecnologías con las que trabajo
 
