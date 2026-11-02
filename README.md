@@ -1,74 +1,95 @@
-### Hello, I'm David Rodriguez <img src="https://raw.githubusercontent.com/esedArk/esedArk/main/wave.gif" width="30px">
+<div align="center">
 
-![PHP](https://img.shields.io/badge/PHP-Senior-green)
-![Laravel](https://img.shields.io/badge/Laravel-Ninja-blue)
-![SysAdmin](https://img.shields.io/badge/SysAdmin-enthusiastic-red)
-![JavaScript](https://img.shields.io/badge/JavaScript-Middle-yellow)
-![CSS](https://img.shields.io/badge/CSS-Senior-blue)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![status](https://img.shields.io/badge/status-open_to_work-brightgreen)
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/esedArk)
+# David Rodríguez
 
-## About me 
+**CTO · Senior Software Engineer · Product Builder**
 
-I'm Backend Developer/DevOps Engineer. I'm from Barcelona, and currently working at [goCrush](https://gocrush.club/)
+From a business problem to a product people can use.
 
-- 🌱 I'm currently learning **Puppeteer/AI**
-- ⚙️ Mastering: `.php`,`.css`,`.js`,`.html`
-- 👯 I'm looking to collaborate on **Laravel Sites** and/or **Startups** projects
-- 💬 I'm mostly active within the **Laravel**, **PHP** and **SEO** communities
+[Website](https://esedark.com) · [LinkedIn](https://www.linkedin.com/in/davidrodriguez23/) · [X](https://x.com/esedark)
 
+[English](#english) · [Español](#español)
 
-## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/memcached/memcached-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/npm/npmjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+</div>
 
-## ⚡ Domains:
-- Web Development (Backend Developer)
-- SEO
-- SaaS
-- MVP
-- Business Strategy
+---
 
+## English
 
+I build software and help shape the product behind it: what it needs to solve, how it should work, and what it takes to run it.
 
-## 📬 Get in Touch
-- GitHub: [github.com/esedArk][github]
-- twitter: [twitter.com/esedark][twitter]
-- LinkedIn: [davidrodriguez23][linkedin]
-- Website: [esedark.com][site]
-- Issue: [esedArk/issues/me][issue] 
+My work connects **business decisions, product development and hands-on engineering**. I work across backend systems, integrations, infrastructure and automation, staying close to both the code and the people using it.
 
+### What I bring to a product
 
+- **Product & technical direction** — turn business needs into priorities, architecture and working software.
+- **Backend & integrations** — build APIs, data flows and the systems behind everyday operations.
+- **Delivery & infrastructure** — connect development, deployment and maintenance.
+- **Automation & applied AI** — reduce repetitive work in internal tools and operational workflows.
 
-<!-- Links to your social media accounts -->
-[twitter]: https://twitter.com/esedark
-[github]: https://github.com/esedark
-[linkedin]: https://www.linkedin.com/in/davidrodriguez23/
-[site]: https://www.esedark.com
-[issue]: https://github.com/esedArk/esedArk/issues/me
+### Featured project · [goCrush](https://gocrush.club/)
+
+**Ticketing, QR access control and tools for promoters.**
+
+As CTO & Product Engineer, I work across product decisions, software architecture, backend development, integrations and infrastructure.
+
+It brings together the work I enjoy: understanding an operational problem, building the product around it and keeping the technical details connected to the business.
+
+[Visit goCrush →](https://gocrush.club/)
+
+### Technologies I work with
+
+| Area | Tools |
+| :--- | :--- |
+| Backend | PHP · Laravel · Node.js · Python |
+| Web | JavaScript · HTML · CSS |
+| Data | MySQL · Redis · Elasticsearch |
+| Infrastructure | Linux · Docker · Nginx · Cloudflare · AWS |
+| Workflow | Git · APIs · Browser automation |
+
+I'm also exploring practical uses of **AI agents and MCP** in development and business operations.
+
+### Let's talk
+
+For product, engineering or automation conversations, find me on [LinkedIn](https://www.linkedin.com/in/davidrodriguez23/) or visit [esedark.com](https://esedark.com).
+
+---
+
+## Español
+
+Construyo software y doy forma al producto que hay detrás: qué problema resuelve, cómo debe funcionar y qué necesita para operar.
+
+Mi trabajo conecta **negocio, producto y ejecución técnica**. Trabajo en backend, integraciones, infraestructura y automatización, cerca del código y de las personas que lo utilizan.
+
+### Qué aporto a un producto
+
+- **Dirección de producto y tecnología** — convertir necesidades de negocio en prioridades, arquitectura y software que funciona.
+- **Backend e integraciones** — desarrollar APIs, flujos de datos y los sistemas que sostienen la operativa diaria.
+- **Desarrollo e infraestructura** — conectar la implementación, el despliegue y el mantenimiento.
+- **Automatización e IA aplicada** — reducir tareas repetitivas en herramientas internas y procesos operativos.
+
+### Proyecto destacado · [goCrush](https://gocrush.club/)
+
+**Ticketing, control de accesos QR y herramientas para promotores.**
+
+Como CTO & Product Engineer, trabajo en decisiones de producto, arquitectura de software, backend, integraciones e infraestructura.
+
+Reúne lo que más me interesa: entender un problema operativo, construir el producto que lo resuelve y mantener las decisiones técnicas conectadas con el negocio.
+
+[Visitar goCrush →](https://gocrush.club/)
+
+### Tecnologías con las que trabajo
+
+| Área | Herramientas |
+| :--- | :--- |
+| Backend | PHP · Laravel · Node.js · Python |
+| Web | JavaScript · HTML · CSS |
+| Datos | MySQL · Redis · Elasticsearch |
+| Infraestructura | Linux · Docker · Nginx · Cloudflare · AWS |
+| Desarrollo | Git · APIs · Automatización de navegador |
+
+También exploro aplicaciones prácticas de **agentes de IA y MCP** en desarrollo y operaciones de negocio.
+
+### Hablamos
+
+Para hablar de producto, ingeniería o automatización, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/davidrodriguez23/) o visitar [esedark.com](https://esedark.com).
